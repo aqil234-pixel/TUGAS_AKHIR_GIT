@@ -3,5 +3,9 @@ Belajar Git Source Control
 Nama Lengkap Kamu : <isi dengan nama kamu>
 
 Saya senang belajar Git Source Control di Gamelab Indonesia
+<<<<<<< HEAD
 
 halo saya bersekolah di smk if sedang sinau git sigit
+=======
+ini tadi di tambahin
+>>>>>>> 7b8a9d7e7212f6a59de9a441d35c8431c546acfd
